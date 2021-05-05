@@ -6,7 +6,7 @@
 
 
 ## General info
-Classification of breast cancer dataset.
+Classification of breast cancer dataset.Getting true prediction percent.
 Hyperparameter optimization use of nature inspired algorithms.
 
 Classification method : Random Forest 
