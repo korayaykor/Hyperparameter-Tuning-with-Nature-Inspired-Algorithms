@@ -6,7 +6,8 @@
 
 
 ## General info
-Getting hyperparameter optimzation use of nature inspired algorithms.
+Classification of breast cancer dataset.
+Hyperparameter optimization use of nature inspired algorithms.
 
 Classification method : Random Forest 
 
