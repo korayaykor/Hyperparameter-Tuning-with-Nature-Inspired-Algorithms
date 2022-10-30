@@ -22,6 +22,6 @@ Project is created with:
 * Scikit-Learn : 0.22.2
 * sklearn_nature_inspired_algorithms == 0.4.3
 * scipy >= 0.17.0
-* numy >= 1.11.0
+* numpy >= 1.11.0
 * joblib >= 0.11
 	
