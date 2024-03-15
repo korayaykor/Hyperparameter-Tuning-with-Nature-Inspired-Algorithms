@@ -16,7 +16,7 @@ Optimization Algorithms : (BA,
                            FA,
                            GWO)
 	
-## Technologies
+## Libs
 Project is created with:
 * Python version: 3.8
 * Scikit-Learn : 0.22.2
